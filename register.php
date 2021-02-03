@@ -4,8 +4,7 @@
 <head>
   <meta charshet + "UTF-8">
   <title> Sign Up </title>
-  <link rel="stylesheet">
-  href = "https://stackpath.bootstraprcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+<link href="./main.97292821.css" rel="stylesheet">
 </head>
 
 <body>
